@@ -1,2 +1,1 @@
-# RID166333_Desafio03
-Board de Tarefas
+Desenvovlvendo Board de Tarefas HTML, CSS e JS
